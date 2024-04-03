@@ -22,6 +22,6 @@ public class Q1_IntegerPallindrome {
 		else
 			System.out.println(temp + " is not Palindrome");
 		
-		//Commenting purposefully
+		
 	}
 }
