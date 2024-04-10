@@ -1,4 +1,4 @@
-package selfPractise;
+package arpan;
 
 import java.util.Arrays;
 

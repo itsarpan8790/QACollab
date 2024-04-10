@@ -1,4 +1,4 @@
-package selfPractise;
+package arpan;
 
 public class SortingEx2_Comparable {
 	String name;

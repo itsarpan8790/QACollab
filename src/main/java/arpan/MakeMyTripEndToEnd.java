@@ -1,4 +1,4 @@
-package selfPractise;
+package arpan;
 
 import java.time.Duration;
 import java.util.LinkedHashMap;
