@@ -19,12 +19,12 @@ public class MSteamLogin {
 
 		// Enter Email
 		WebElement emailTxtFld = driver.findElement(By.name("loginfmt"));
-		emailTxtFld.sendKeys("arpank8@hotmail.com");
+		emailTxtFld.sendKeys("arpank6@hotmail.com");
 		driver.findElement(By.id("idSIButton9")).click();
 		 Thread.sleep(2000);
 		// Enter Password
 		 Pom_MS pm=new Pom_MS(driver) ;
-		 pm.getPwdTxtFld().sendKeys("abcd");
+		 pm.getPwdTxtFld().sendKeys("Truba@101017");
 		 Thread.sleep(2000);
 		 pm.getSubmit().click();
 		 
