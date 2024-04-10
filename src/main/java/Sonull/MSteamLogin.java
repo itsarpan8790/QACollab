@@ -24,7 +24,7 @@ public class MSteamLogin {
 		 Thread.sleep(2000);
 		// Enter Password
 		 Pom_MS pm=new Pom_MS(driver) ;
-		 pm.getPwdTxtFld().sendKeys("Truba@101017");
+		 pm.getPwdTxtFld().sendKeys("abcd");
 		 Thread.sleep(2000);
 		 pm.getSubmit().click();
 		 
